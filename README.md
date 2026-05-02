@@ -87,8 +87,10 @@ Step 3 - Install dependencies:
 pip install flask qrcode[pil]
 
 Step 4 - Run the server:
-python app.py
+python app.py                  after that it's  provide localhost link copy the link and paste in browser and type anything
 
+                               if you want qr code open new terminal and go on source myenv/bin/activate after that follow step 5
+                               ✔
 
 Step 5 - Generate QR code:
 python qr_generate.py
